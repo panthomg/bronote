@@ -1,0 +1,2 @@
+# bronote
+YOUR THOUGHTS, PROCESSED.
