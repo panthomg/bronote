@@ -39,36 +39,6 @@ This is your digital workspace, stripped down to the essentials. No distractions
     *   **Authentication:** For secure Google Account sign-in.
     *   **Firestore:** As the real-time NoSQL database for storing and syncing user data.
 
-## Getting Started (For Developers)
-
-To get a local copy up and running, follow these simple steps.
-
-### Prerequisites
-
-You need a modern web browser and a code editor (like VS Code with the Live Server extension).
-
-### Installation & Setup
-
-1.  **Clone the repo:**
-    ```sh
-    git clone https://github.com/panthomg/your-repo-name.git
-    ```
-    *(Replace `your-repo-name` with the actual name of your repository)*
-
-2.  **Set up Firebase:**
-    *   Go to the [Firebase Console](https://console.firebase.google.com/) and create a new project.
-    *   In your project, go to **Project Settings** > **General**.
-    *   Under "Your apps", click the web icon (`</>`) to add a new web app.
-    *   Give it a nickname and register the app.
-    *   Firebase will provide you with a `firebaseConfig` object. **Copy this object.**
-    *   In the project directory, open the `firebase-config.js` file.
-    *   **Replace the existing `firebaseConfig` object with the one you copied from your Firebase project.**
-    *   Go to the **Authentication** section in the Firebase console. Click "Get started" and enable **Google** as a sign-in provider.
-    *   Go to the **Firestore Database** section. Click "Create database", start in **test mode** (for easy setup), and choose a location.
-
-3.  **Run the application:**
-    *   The easiest way is to use a live server. If you are using VS Code, install the [Live Server extension](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer).
-    *   Right-click the `index.html` file and choose "Open with Live Server".
 
 ## Credits
 
