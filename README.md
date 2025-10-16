@@ -13,7 +13,6 @@ A no-nonsense, neo-brutalist thought processor. Your thoughts, processed.
 ---
 
 
-*(Please replace this placeholder with an actual screenshot of your app)*
 
 ## About The Project
 
