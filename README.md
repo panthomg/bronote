@@ -42,7 +42,7 @@ This is your digital workspace, stripped down to the essentials. No distractions
 ## Credits
 
 *   **Developed by:** [itzpanth](https://github.com/panthomg)
-*   **A project by:** [TinTools Solutions](https://tintool.netlify.app/bronote)
+*   **A project by:** [TinTools Solutions](https://tintool.netlify.app/bronote_)
 
 ## License
 
