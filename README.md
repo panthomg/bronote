@@ -8,7 +8,7 @@ A no-nonsense, neo-brutalist thought processor. Your thoughts, processed.
 
 ---
 
-### **[View the Landing Page](https://tintool.netlify.app/bronote) &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp; [Launch the App](https://tintool.netlify.app/creative/)**
+### **[View the Landing Page](https://tintool.netlify.app/bronote) &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp; [Launch the App](https://tintool.netlify.app/bronote_/)**
 
 ---
 
@@ -42,7 +42,7 @@ This is your digital workspace, stripped down to the essentials. No distractions
 ## Credits
 
 *   **Developed by:** [itzpanth](https://github.com/panthomg)
-*   **A project by:** [TinTools Solutions](https://tintool.netlify.app/bronote_)
+*   **A project by:** [TinTools Solutions](https://tintool.netlify.app/)
 
 ## License
 
